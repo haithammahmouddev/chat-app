@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056972653449",
+    "project_id": "whats-a-c110f",
+    "storage_bucket": "whats-a-c110f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056972653449:android:ffb5f190cfbc3975605758",
+        "android_client_info": {
+          "package_name": "com.haitham.whats_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthEpQ4mH3vWcCPZDPbb5qhqmWQKylHEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
